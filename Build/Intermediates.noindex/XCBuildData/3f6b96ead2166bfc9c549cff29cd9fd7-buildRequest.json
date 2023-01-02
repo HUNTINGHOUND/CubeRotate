@@ -1,0 +1,56 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "679148cddcae3422d2453335c224d843c9bf2cffcb4376b43095fda47f89b465"
+    }
+  ],
+  "containerPath" : "/Users/morgan/Desktop/CubeRotate/CubeRotate.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/morgan/Desktop/CubeRotate/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/morgan/Desktop/CubeRotate/Build/Products",
+      "derivedDataPath" : "/Users/morgan/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/morgan/Library/Developer/Xcode/DerivedData/CubeRotate-fghaomurbodrvgdhqasvwsrfqork/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/morgan/Library/Developer/Xcode/DerivedData/CubeRotate-fghaomurbodrvgdhqasvwsrfqork/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/morgan/Desktop/CubeRotate/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
